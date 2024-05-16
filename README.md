@@ -12,7 +12,7 @@
     <th>Link</th>
   </tr>
   <tr>
-    <td>OSCE<sup>3</sup> <img src="images/OSCE3.png" width="50" align="middle" /></td>
+    <td>OSCE<sup>3</sup><img src="images/OSCE3.png" width="50" align="middle" /></td>
 	<td>Offensive Security Certified Expert 3</td>
     <td>February 3rd, 2024</td>
     <td><a href="https://www.credential.net/6756d2f2-a1d2-4d2c-83f8-7cc842d39a69">Link</a></td>
