@@ -15,13 +15,13 @@
     <td>OSCE<sup>3</sup><img src="images/OSCE3.png" width="50" align="middle" /></td>
 	<td>Offensive Security Certified Expert 3</td>
     <td>February 3rd, 2024</td>
-    <td><a href="https://www.credential.net/6756d2f2-a1d2-4d2c-83f8-7cc842d39a69">Link</a></td>
+    <td><a href="https://www.credential.net/eef28b88-b4a7-4a83-b1a0-7fc4a30805db">Link</a></td>
   </tr>
   <tr>
     <td>OSED<img src="images/OSED.png" width="50" align="middle" /></td>
 	<td>Offensive Security Exploit Developer</td>
-    <td>April 5th, 2023</td>
-    <td><a href="https://www.credential.net/ab8fcd09-7a09-4c14-a6b0-ab678d5cdb43">Link</a></td>
+    <td>January 30th, 2024</td>
+    <td><a href="https://www.credential.net/a2bc4237-1888-4325-8da9-00412d7451ca">Link</a></td>
   </tr>
   <tr>
     <td>RTAC<img src="images/RTAC.png" width="50" align="middle" /></td>
